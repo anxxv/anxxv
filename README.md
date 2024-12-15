@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://ru.pinterest.com/pin/39547302972177051/"/>
+  <img src="https://ru.pinterest.com/pin/39547302972177051/" width="100"/>
 </div>
 
 ## Hi there 👋
