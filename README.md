@@ -14,8 +14,10 @@ I see code where others see websites :)
 - 💬 Ask me about web development, gamification, or creating interactive websites.  
 - ⚡ Fun fact: I love building with construction sets and designing creative projects!
 
-<img src="settings.png" width="20" alt="Settings Icon" />
-<h4 style="display: inline;">Languages and Tools</h4>
+<div>
+  <img src="settings.png" width="20" alt="Settings Icon" />
+  <span>Languages and Tools</span>
+</div>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
