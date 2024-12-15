@@ -9,6 +9,10 @@ I see code where others see websites :)
 - 💬 Ask me about web development, gamification, or creating interactive websites.  
 - ⚡ Fun fact: I love building with construction sets and designing creative projects!
 
+<div id="header" align="center">
+  <img src=https://i.pinimg.com/originals/4e/8a/7f/4e8a7f82442d60b9fd54aa13350c8b16.jpg width="100"/>
+</div>
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
