@@ -18,7 +18,6 @@ I see code where others see websites :)
   <img src="settings.png" width="20" alt="Settings Icon" />
   <span>Languages and Tools: </span>
 </div>
-
 <p>                       </p>
 
 <div>
@@ -28,4 +27,13 @@ I see code where others see websites :)
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FRust_%2528programming_language%2529&psig=AOvVaw1ugD7bZmWFU6qFiYQZcXSQ&ust=1734362139144000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiGrsuIqooDFQAAAAAdAAAAABAE" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FC%252B%252B&psig=AOvVaw2HtyR79KVv4w354q1SYPt1&ust=1734362201324000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj1u-uIqooDFQAAAAAdAAAAABAE" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+<p>                       </p>
+How To Reach Me
+<div>
+  <img src="settings.png" width="20" alt="Settings Icon" />
+  <span>Languages and Tools: </span>
 </div>
