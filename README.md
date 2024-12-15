@@ -34,10 +34,10 @@ I see code where others see websites :)
 <p>                       </p>
 How To Reach Me
 <div>
-  <img src="group 1.png" width="20" alt="Settings Icon" />
+  <img src="Group 1.png" width="20" alt="Settings Icon" />
   <span>Telegram</span>
-  <img src="group 4.png" width="20" alt="Settings Icon" />
+  <img src="Group 4.png" width="20" alt="Settings Icon" />
   <span>Discord</span>
-  <img src="group 5.png" width="20" alt="Settings Icon" />
+  <img src="Group 5.png" width="20" alt="Settings Icon" />
   <span>Vk</span>
 </div>
