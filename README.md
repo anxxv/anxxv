@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="/Users/a1/Downloads/_-removebg-preview.png"/>
+  <img src="https://ibb.co/zsz2k3x"/>
 </div>
 
 ## Hi there 👋
