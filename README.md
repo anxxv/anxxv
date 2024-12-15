@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="_-removebg-preview.png" width="100"/>
+  <img src="_-removebg-preview.png" width="300"/>
 </div>
 
 ## Hi there 👋
