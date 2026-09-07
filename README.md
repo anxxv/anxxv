@@ -35,7 +35,7 @@
 <p align="left">
   <a href="https://t.me/hamovban"><img src="https://skillicons.dev/icons?i=telegram" /></a>
   <a href="https://www.instagram.com/_.annee____"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://vk.ru/hamovban"><img src="https://skillicons.dev/icons?i=vk" /></a>
+  <a href="https://vk.com/hamovban"><img src="https://img.shields.io/badge/VK-FF69B4?style=for-the-badge&logo=vk&logoColor=white" /></a>
 </p>
   <a href="https://vk.com/твой_ник"><img src="https://skillicons.dev/icons?i=vk" /></a>
 </p>
